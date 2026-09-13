@@ -1,0 +1,12 @@
+# Kaggle Training Repository Ignore Rules
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv*/
+*.tmp
+*.log
+*credentials*.json
+*Credentials*.json
+kaggle.json
+.kaggle_token
+token.json
